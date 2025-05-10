@@ -1,0 +1,29 @@
+# Enforce Unix newlines
+*.h  text eol=lf
+*.html  text eol=lf
+*.jade   text eol=lf
+*.cpp   text eol=lf
+*.css   text eol=lf
+*.less  text eol=lf
+*.js    text eol=lf
+*.coffee   text eol=lf
+*.json  text eol=lf
+*.md    text eol=lf
+*.py    text eol=lf
+*.rs    text eol=lf
+*.scss   text eol=lf
+*.svg   text eol=lf
+*.toml   text eol=lf
+*.ts   text eol=lf
+*.vue   text eol=lf
+*.yaml   text eol=lf
+*.yml   text eol=lf
+
+# Don't diff or textually merge source maps
+*.map   binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.ttf binary

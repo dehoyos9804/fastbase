@@ -1,0 +1,8 @@
+fastapi[standard]
+asyncpg==0.30.0
+aiomysql==0.2.0
+loguru==0.7.3
+orjson==3.10.18
+python-dotenv==1.0.1
+sqlmodel==0.0.24
+Secweb==1.18.1

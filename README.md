@@ -73,7 +73,7 @@ Estos se gestionan fácilmente desde un sistema de configuración flexible y seg
 
 ## 📄 Documentación  
 
-🔹 Encuentra toda la información detallada en el siguiente enlace: [Por aquí](https://wiki-projects.gitlab.io/wiki-backend-base-genia-servi) 📌  
+🔹 Encuentra toda la información detallada en el siguiente enlace: [Por aquí](https://wiki-fastbase-5a098d.gitlab.io/) 📌  
 
 Si tienes dudas, revisa la documentación para obtener una guía completa. 🚀 
 
